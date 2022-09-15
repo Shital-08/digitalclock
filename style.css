@@ -3,7 +3,7 @@ body{
 }
 .container {
     display: grid;
-    grid-template-columns: 45% 45%;
+    grid-template-columns: 40% 40%;
     grid-gap: 2vw;
     justify-content: center;
 }
@@ -16,7 +16,7 @@ body{
     right: 1.5vw;
 }
 .a2 {
-    height: 40vh;
+    height: 45vh;
     border-radius: 10px;
     background-color: white;
     padding: 0 0 30px 0;
