@@ -3,7 +3,7 @@ body{
 }
 .container {
     display: grid;
-    grid-template-columns: 40% 40%;
+    grid-template-columns: 45% 45%;
     grid-gap: 2vw;
     justify-content: center;
 }
